@@ -1,0 +1,107 @@
+{
+  "configVersion": 1,
+  "timestamp": 1783517544255,
+  "index": "/techmate-demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/techmate-demo/chunk-BC1ZPIYD.js",
+        "/techmate-demo/chunk-BF7TRxRL.js",
+        "/techmate-demo/chunk-BZYJsg0w.js",
+        "/techmate-demo/chunk-BbmfRVd_.js",
+        "/techmate-demo/chunk-BhXTbVTV.js",
+        "/techmate-demo/chunk-C0PdZzRM.js",
+        "/techmate-demo/chunk-CKlwuUYC.js",
+        "/techmate-demo/chunk-CtLkdfjM.js",
+        "/techmate-demo/chunk-DRD7NniE.js",
+        "/techmate-demo/chunk-Dea3yKYU.js",
+        "/techmate-demo/chunk-DuE2Jowz.js",
+        "/techmate-demo/chunk-uqn4pTgM.js",
+        "/techmate-demo/favicon.ico",
+        "/techmate-demo/index.html",
+        "/techmate-demo/main-QLOICZ63.js",
+        "/techmate-demo/manifest.webmanifest",
+        "/techmate-demo/styles-UKB7M3CE.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/techmate-demo/favicon-16x16.png",
+        "/techmate-demo/favicon-32x32.png",
+        "/techmate-demo/icons/icon-128x128.png",
+        "/techmate-demo/icons/icon-144x144.png",
+        "/techmate-demo/icons/icon-152x152.png",
+        "/techmate-demo/icons/icon-192x192.png",
+        "/techmate-demo/icons/icon-384x384.png",
+        "/techmate-demo/icons/icon-512x512.png",
+        "/techmate-demo/icons/icon-72x72.png",
+        "/techmate-demo/icons/icon-96x96.png",
+        "/techmate-demo/techmate-logo.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/techmate-demo/chunk-BC1ZPIYD.js": "64751dd00a071c39ac9d77d4b71bfd029004d3b4",
+    "/techmate-demo/chunk-BF7TRxRL.js": "593d063f3d8e79e79664d27aa828e774361319d5",
+    "/techmate-demo/chunk-BZYJsg0w.js": "a221b1547b885043d611849c6cb56e402cc48001",
+    "/techmate-demo/chunk-BbmfRVd_.js": "d11f7e7ddd2ada62e2f93261c0cce21f64d82eaf",
+    "/techmate-demo/chunk-BhXTbVTV.js": "d18ad80bfbf4af039fa1634a267aa45d5aa12b15",
+    "/techmate-demo/chunk-C0PdZzRM.js": "3efe98c5a17d8808878535b99ab49eee2849cc25",
+    "/techmate-demo/chunk-CKlwuUYC.js": "a5674ea04ce6420dafca9477763e83b07488c776",
+    "/techmate-demo/chunk-CtLkdfjM.js": "2fa6bd83394f479ba41cd9bd1c03d72a59fefd26",
+    "/techmate-demo/chunk-DRD7NniE.js": "9e3617bcf4f189442cb1db3b122425d6fb75f259",
+    "/techmate-demo/chunk-Dea3yKYU.js": "bca8c67a7c98b5b3f99b3857ba6599b1871ec96a",
+    "/techmate-demo/chunk-DuE2Jowz.js": "6a8d85abeb39d68603390d06162e89707468fc4a",
+    "/techmate-demo/chunk-uqn4pTgM.js": "3263015a17452c7b56916d6939313f780779828b",
+    "/techmate-demo/favicon-16x16.png": "cfca5c60b033949d9696c08ef72ddf41d249fbb7",
+    "/techmate-demo/favicon-32x32.png": "b1516901e521b875bc69c019bebe2b76bdf3c094",
+    "/techmate-demo/favicon.ico": "fa7a4d3f2d2bc01d8b6cf105298c3a0889b76947",
+    "/techmate-demo/icons/icon-128x128.png": "06f46067df4a958701d24ef0f028304b47ccbd1c",
+    "/techmate-demo/icons/icon-144x144.png": "a2dd1dc1054c7d59077753aca492ca6a386fe7f6",
+    "/techmate-demo/icons/icon-152x152.png": "ab971d6f440b30cf402cbb4d58acdc76b16477bf",
+    "/techmate-demo/icons/icon-192x192.png": "8bdf7e7e164b6dc358c6f05dae0369a8184dbb8e",
+    "/techmate-demo/icons/icon-384x384.png": "03d636c0f49c083b39909aa1dc57fae143cdb02b",
+    "/techmate-demo/icons/icon-512x512.png": "60d61e0029ec139f9b50c6f48677e80ead7364cc",
+    "/techmate-demo/icons/icon-72x72.png": "83f8d2f8c95466a86410cf7d3e0fc4d9517f0410",
+    "/techmate-demo/icons/icon-96x96.png": "cfcbce87d95b8126e7653bd16cf17bc0b7dced5f",
+    "/techmate-demo/index.html": "09824ab359c860dfe7629c4f5c221b52d48ee83e",
+    "/techmate-demo/main-QLOICZ63.js": "ff8c664ae05043438af1abeca9ce17cb2a1262af",
+    "/techmate-demo/manifest.webmanifest": "a138e6d8620379c085a8c435c942afa44ae7e103",
+    "/techmate-demo/styles-UKB7M3CE.css": "3cdbdfb89f2e61f2bb7115d176b5ff947399e881",
+    "/techmate-demo/techmate-logo.svg": "7bb8318e8098cc0e3fcf94767e2e25b71b4f0f82"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
